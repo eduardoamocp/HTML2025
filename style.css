@@ -1,11 +1,30 @@
 body {
     color: white;
-    background: black;
+    background: rgb(0, 0, 0);
+    margin: 0px
 }
 
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(42, 114, 207);
+}
+
+element.style {
+    background: red;
+}
+
+
+
+
+
+section {
+
+background:rgb (184, 156, 213);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
 }
